@@ -1,0 +1,18 @@
+This work presented a Valet Parking software which is a major use case for the Hotel Industry.
+
+Frontend Technologies:
+   HTML
+   CSS & Bootstrap
+   VueJS
+
+Backend Technologies:
+   Django Web Framework
+
+API Design & Testing:
+   Django Rest Framework
+   Postman
+
+Database:
+   SQLite
+
+All the root files have not been added as a matter of confidentiality, only the coding files have been added.
